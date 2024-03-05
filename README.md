@@ -1,33 +1,28 @@
-# Frontend Mentor - Fylo Landing Page with Two Column Layout
+# Fylo Landing Page with Two Column Layout
+Este é um projeto de página de destino (landing page) para a empresa Fylo, com um layout de duas colunas. O objetivo é fornecer uma visão geral do serviço oferecido pela Fylo e incentivar os visitantes a se inscreverem para obter acesso antecipado.
 
-![Header/intro section for the Huddle landing page with single column layout](./design/desktop-preview.jpg)
+# Descrição do Projeto
+A página consiste em várias seções:
 
-## Welcome! 👋
+Header (Cabeçalho): Inclui o logotipo da Fylo e links para diferentes seções da página, como "Features", "Team" e "Sign In".
 
-Thanks for checking out this front-end coding challenge. This page started life as a Frontend Mentor Challenge. 🎉 Coded by [Nitya Gulati](https://nityagulati.github.io).
+Main Content (Conteúdo Principal): Dividido em três seções principais:
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges allow you to improve your skills in a real-life workflow.
+Seção 1: Destaca a conveniência de ter todos os arquivos em um único local seguro.
+Seção 2: Enfatiza a capacidade de permanecer produtivo em qualquer lugar e colaborar com colegas sem anexos de e-mail.
+Seção 3: Convida os usuários a se inscreverem para acesso antecipado ao serviço.
+Footer (Rodapé): Contém informações de contato, links para diferentes páginas do site e links para redes sociais.
 
-**To do these challenges, you need a basic understanding of HTML, CSS and (sometimes) JavaScript.**
+# Como Contribuir
+Este projeto é apenas uma página estática e não requer contribuições ativas no momento. No entanto, sinta-se à vontade para sugerir melhorias ou fazer perguntas relacionadas ao código.
 
-## Where to find everything
+# Tecnologias Utilizadas
+HTML5
+CSS3
+Font Awesome (para ícones)
+Google Fonts (Open Sans e Raleway)
+Como Executar o Projeto
+Para visualizar o projeto, basta abrir o arquivo index.html em seu navegador da web.
 
-Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design to work to.
-
-You can access all the required assets and the style guide on the Frontend Mentor [website](https://www.frontendmentor.io).
-
-## Sharing your solution
-
-There are multiple places you can share your solution:
-
-1. Submit it on the platform so that other users will see your solution on the site. Other users will be able to give you feedback, which could help improve your code for the next project.
-2. Share your repository and live URL in the **#finished-projects** channel of the Slack community.
-3. Tweet [@frontendmentor](https://twitter.com/frontendmentor) and mention **@frontendmentor** including the repo and live URLs in the tweet. We'd love to take a look at what you've built and help share it around.
-
-## Giving feedback
-
-Feedback is always welcome, so if you have any on this challenge please email **Matt** at matt[at]frontendmentor[dot]io.
-
-This challenge is completely free. Please share it with anyone who will find it useful to practice on.
-
-**Have fun building!** 🚀
+# Licença
+Este projeto é licenciado sob MIT License.
